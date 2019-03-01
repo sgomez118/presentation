@@ -1,5 +1,9 @@
 # Presentation
 
+Created this project for Justin to help him build a pretty GUI. Contains examples of how to do do certain things in angular and serves as a baseline for him to start from.
+
+Good luck
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
 
 ## Development server
