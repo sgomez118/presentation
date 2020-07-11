@@ -26,8 +26,7 @@
               "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.css"
             ],
-            "scripts": [],
-            "es5BrowserSupport": true
+            "scripts": []
           },
           "configurations": {
             "production": {
@@ -134,5 +133,8 @@
       }
     }
   },
-  "defaultProject": "presentation"
+  "defaultProject": "presentation",
+  "cli": {
+    "analytics": "d0a49259-80bc-4f9b-af92-663b6404a4cd"
+  }
 }
